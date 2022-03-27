@@ -1,0 +1,21 @@
+{
+  "id": "quickstart-snyk-serverless-yl10tho",
+  "name": "quickstart-snyk-serverless",
+  "created": "2022-03-27T07:14:56.637Z",
+  "description": "",
+  "blueprints": [
+    {
+      "version": "2019-10-24",
+      "connections": {},
+      "resources": {},
+      "metadata": {
+        "designer": {
+          "resourcePositions": {}
+        }
+      },
+      "id": "quickstart-snyk-serverless-yk00tas",
+      "name": "quickstart-snyk-serverless"
+    }
+  ],
+  "type": "altostra"
+}
